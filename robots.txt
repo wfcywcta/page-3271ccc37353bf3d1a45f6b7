@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://web.xn--chq17txman32cj11abua.com/sitemap.xml
